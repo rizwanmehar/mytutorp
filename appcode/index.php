@@ -69,7 +69,7 @@
 			</div>
 
 		</section><!-- #slider end -->
-		<!-- Content
+		<!-- Content section for the content
 		============================================= -->
 		<div class="content">
 			<div id="about">
